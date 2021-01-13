@@ -121,6 +121,12 @@ public class MainManager : MonoBehaviour
 
         PlayerPrefs.SetString("unityHubPath", paths[0]);
     }
+
+    public void SettingEraseBtnClick()
+    {
+        PlayerPrefs.SetString("unityHubPath", "");
+        settingInputText.text = "";
+    }
     #endregion
 
     //----------------------------------
