@@ -13,8 +13,6 @@ You can use it to restart your project quickly when Unity becomes unresponsive.
 ## Setup
 Click the Settings button in the upper right corner of the app to open the Settings window, where you can configure the app settings.
 If you specify the Unity Hub exe in the UnityHubPath field, the Unity Hub will be launched after the Unity Editor is forced to close. If the field is empty, nothing will happen after the Unity Editor is closed. If you want to leave the field empty, click the eraser button on the right side of TextFeild.
-
-Translated with www.DeepL.com/Translator (free version)
 ![reUnitySetting](https://user-images.githubusercontent.com/4795806/104939002-353c4780-59f3-11eb-9133-49ea35e7b85c.png)
 
 ## Development environment / assets used
