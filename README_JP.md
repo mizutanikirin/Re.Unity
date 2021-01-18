@@ -1,4 +1,4 @@
-READ ME ([English](https://github.com/mizutanikirin/Re.Unity/blob/main/README_JP.md) | Japanease)
+READ ME ([English](https://github.com/mizutanikirin/Re.Unity/blob/main/README.md) | Japanease)
 # Re.Unity
 ![reUnity](https://user-images.githubusercontent.com/4795806/104938985-2e153980-59f3-11eb-8442-9ae096303a6f.png)
 
