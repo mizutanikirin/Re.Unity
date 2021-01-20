@@ -4,7 +4,7 @@ README ([English](https://github.com/mizutanikirin/Re.Unity/blob/main/README.md)
 
 ## 概要
 このアプリはUnityを強制的に終了させ、UnityHubを起動するアプリケーションです。  
-Unityが応答不能になったときなどに使用するとスピーディーにプロジェクトを再起動することができます。
+Unityが応答不能になったときなどに使用するとスピーディーにプロジェクトを再起動することができます。  
 [Download ver1.0.0](https://github.com/mizutanikirin/Re.Unity/releases/tag/ver1.0.0)
 
 ## 使用方法

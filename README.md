@@ -4,7 +4,7 @@ README (English | [Japanease](https://github.com/mizutanikirin/Re.Unity/blob/mai
 
 ## Overview
 This application will forcibly kill Unity and start UnityHub.
-You can use it to restart your project quickly when Unity becomes unresponsive.
+You can use it to restart your project quickly when Unity becomes unresponsive.  
 [Download ver1.0.0](https://github.com/mizutanikirin/Re.Unity/releases/tag/ver1.0.0)
 
 ## How to use
