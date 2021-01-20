@@ -1,13 +1,14 @@
-READ ME ([English](https://github.com/mizutanikirin/Re.Unity/blob/main/README.md) | Japanease)
+README ([English](https://github.com/mizutanikirin/Re.Unity/blob/main/README.md) | Japanease)
 # Re.Unity
 ![reUnity](https://user-images.githubusercontent.com/4795806/104938985-2e153980-59f3-11eb-8442-9ae096303a6f.png)
 
 ## 概要
 このアプリはUnityを強制的に終了させ、UnityHubを起動するアプリケーションです。  
 Unityが応答不能になったときなどに使用するとスピーディーにプロジェクトを再起動することができます。
+[Download ver1.0.0](https://github.com/mizutanikirin/Re.Unity/releases/tag/ver1.0.0)
 
 ## 使用方法
-1. ここから最新のzipをダウンロードしてReUnity.exeを実行します。  
+1. [ここ](https://github.com/mizutanikirin/Re.Unity/releases/tag/ver1.0.0)から最新のzipをダウンロードしてReUnity.exeを実行します。  
 2. 一覧から強制終了させたいUnityを選択しボタンを押してください。  
 ※ スピーディーにUnityを終了させるためのツールであるため、終了時に確認ダイアログは表示されませんのでご注意ください。
 

@@ -1,13 +1,14 @@
-READ ME (English | [Japanease](https://github.com/mizutanikirin/Re.Unity/blob/main/README_JP.md))
+README (English | [Japanease](https://github.com/mizutanikirin/Re.Unity/blob/main/README_JP.md))
 # Re.Unity
 ![reUnity](https://user-images.githubusercontent.com/4795806/104938985-2e153980-59f3-11eb-8442-9ae096303a6f.png)
 
 ## Overview
 This application will forcibly kill Unity and start UnityHub.
 You can use it to restart your project quickly when Unity becomes unresponsive.
+[Download ver1.0.0](https://github.com/mizutanikirin/Re.Unity/releases/tag/ver1.0.0)
 
 ## How to use
-1. Download the latest zip from here and run ReUnity.exe.
+1. Download the latest zip from [here](https://github.com/mizutanikirin/Re.Unity/releases/tag/ver1.0.0) and run ReUnity.exe.
 2. Select the Unity you want to force quit from the list and click the button.  (Please note that the confirmation dialog will not be displayed when you exit Unity, as this is a tool to exit Unity quickly.)
 
 ## Setup
