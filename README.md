@@ -3,7 +3,7 @@ README (English | [Japanease](https://github.com/mizutanikirin/Re.Unity/blob/mai
 ![reUnity](https://user-images.githubusercontent.com/4795806/104938985-2e153980-59f3-11eb-8442-9ae096303a6f.png)
 
 ## Overview
-This application will forcibly kill Unity and start UnityHub.
+This app is an application for Windwos10 that forcibly kills Unity and starts UnityHub. 
 You can use it to restart your project quickly when Unity becomes unresponsive.  
 [Download ver1.0.0](https://github.com/mizutanikirin/Re.Unity/releases/tag/ver1.0.0)
 

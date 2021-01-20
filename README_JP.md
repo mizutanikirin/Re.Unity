@@ -3,7 +3,7 @@ README ([English](https://github.com/mizutanikirin/Re.Unity/blob/main/README.md)
 ![reUnity](https://user-images.githubusercontent.com/4795806/104938985-2e153980-59f3-11eb-8442-9ae096303a6f.png)
 
 ## 概要
-このアプリはUnityを強制的に終了させ、UnityHubを起動するアプリケーションです。  
+このアプリはUnityを強制的に終了させ、UnityHubを起動するWindwos10用アプリケーションです。  
 Unityが応答不能になったときなどに使用するとスピーディーにプロジェクトを再起動することができます。  
 [Download ver1.0.0](https://github.com/mizutanikirin/Re.Unity/releases/tag/ver1.0.0)
 
