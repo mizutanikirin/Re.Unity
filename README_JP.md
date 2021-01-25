@@ -1,6 +1,7 @@
 README ([English](https://github.com/mizutanikirin/Re.Unity/blob/main/README.md) | Japanease)
 # Re.Unity
-![reUnity](https://user-images.githubusercontent.com/4795806/104938985-2e153980-59f3-11eb-8442-9ae096303a6f.png)
+![reunity](https://user-images.githubusercontent.com/4795806/105732264-9a53e800-5f73-11eb-93a2-0f4f2c4c5eb3.gif)
+[Youtube](https://youtu.be/b4JqwAqTyIA)
 
 ## 概要
 このアプリはUnityを強制的に終了させ、UnityHubを起動するWindwos10用アプリケーションです。  
